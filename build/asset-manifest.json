@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/nexGymT/static/js/main.f21d8f1f.chunk.js",
+    "main.js.map": "/nexGymT/static/js/main.f21d8f1f.chunk.js.map",
+    "runtime-main.js": "/nexGymT/static/js/runtime-main.79ddd724.js",
+    "runtime-main.js.map": "/nexGymT/static/js/runtime-main.79ddd724.js.map",
+    "static/css/2.54370922.chunk.css": "/nexGymT/static/css/2.54370922.chunk.css",
+    "static/js/2.2c496975.chunk.js": "/nexGymT/static/js/2.2c496975.chunk.js",
+    "static/js/2.2c496975.chunk.js.map": "/nexGymT/static/js/2.2c496975.chunk.js.map",
+    "index.html": "/nexGymT/index.html",
+    "static/css/2.54370922.chunk.css.map": "/nexGymT/static/css/2.54370922.chunk.css.map",
+    "static/js/2.2c496975.chunk.js.LICENSE.txt": "/nexGymT/static/js/2.2c496975.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79ddd724.js",
+    "static/css/2.54370922.chunk.css",
+    "static/js/2.2c496975.chunk.js",
+    "static/js/main.f21d8f1f.chunk.js"
+  ]
+}
