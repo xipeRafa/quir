@@ -28,7 +28,7 @@ export const AuctionCard = ({ orden }) => {
             
 <>
          
-          {currentUser && (
+       {/*    {currentUser && ( */}
                <div className="pl-5 col-sm-4 border-end border-info my-3 p-4 bg-white">
                     <button onClick={() => bidAuction(orden.id, 'quiroga@gmail.com')}
                          className={orden.entregado ? 'mb-3 btn btn-info w-100' : 'mb-3 btn btn-info w-100'}>
@@ -65,7 +65,7 @@ export const AuctionCard = ({ orden }) => {
                     </p>
 
                     </div>
-          )}
+       {/*    )} */}
        </>  
     );
   };
