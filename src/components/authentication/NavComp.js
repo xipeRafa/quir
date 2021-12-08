@@ -10,7 +10,7 @@ export const NavComp = () => {
 
   return (
     <nav className="container navbar navbar-light ">
-      <div className="navbar-brand mb-4 w-100 text-center border" onClick={()=>setBool(!bool)}>
+      <div className="navbar-brand mb-4 w-100 text-center border" /* onClick={()=>setBool(!bool)} */>
           <h1>nexGym Tienda -- Quiroga</h1>
         </div>
         
